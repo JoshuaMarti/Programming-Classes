@@ -1,0 +1,10 @@
+Total cost: $0 for 0 items.
+1: 5 of Apples at $1.02
+Total cost: $5.1 for 1 unique items.
+1: 7 of Apple at $3.04
+Total cost: $21.28 for 1 unique items.
+1: 23 of Qwer at $6.0
+2: 43 of Tyui at $1.02
+Total cost: $181.86 for 2 unique items.
+1: 23 of Qwer at $6.0
+Total cost: $138.0 for 1 unique items.

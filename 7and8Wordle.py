@@ -38,7 +38,7 @@ while guess != "quit":
 
 
 
-        elif guess != "quit": print("\nPlease make a guess of the correct length.")
+        elif guess != "quit" and guess != word: print("\nPlease make a guess of the correct length.")
         guessCount = guessCount + 1 
     if guess == word:
         guess = input(f"\nCongratulations, you won in {guessCount} guesses! Type \"quit\" to exit, or press Enter to play again: ").lower()
